@@ -1,0 +1,20 @@
+.odd {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #cf7272;
+}
+
+.odd.odd2 {
+    font-size: 30px;
+}
+
+#even1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(35, 55, 235);
+    font-size: 50px;
+}
+
+#even2 {
+    font-size: 30px;
+    background-color: #53c244;
+    font-weight: bold;
+}
